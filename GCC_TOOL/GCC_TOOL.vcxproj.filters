@@ -18,9 +18,15 @@
     <ClInclude Include="GCCTOOL.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="MProcess.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="GCCTOOL.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MProcess.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
